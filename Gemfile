@@ -9,4 +9,4 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
  gem "capybara"
  gem "rspec"
  gem "shotgun"
- gem ".rubocop.yml"
+ gem "rubocop", "0.71.0"
