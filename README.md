@@ -6,6 +6,8 @@
 As a user.
 I would like to see a Bookmarks on the page.
 
+As a user
+I want to add bookmarks into the webpage.
 
 INSTRUCTIONS HOW TO SETUP DATABASE:-
 
